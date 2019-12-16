@@ -1,7 +1,6 @@
 {
   "name": "cra-template-tsmin",
   "version": "0.0.1",
-  "main": "index.js",
   "repository": "git@github.com:durad/cra-template-tsmin.git",
   "author": "Dusan Radovanovic <dushanr@gmail.com>",
   "license": "MIT"
