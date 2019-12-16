@@ -1,12 +1,8 @@
 {
   "name": "cra-template-tsmin",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "main": "template.json",
   "repository": "git@github.com:durad/cra-template-tsmin.git",
   "author": "Dusan Radovanovic <dushanr@gmail.com>",
-  "license": "MIT",
-  "files": [
-    "template",
-    "template.json"
-  ]
+  "license": "MIT"
 }
