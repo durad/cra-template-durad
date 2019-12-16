@@ -6,8 +6,8 @@ To use this template, add `--template tsmin` when creating a new app.
 
 For example:
 
-`npx create-react-app my-app --template tsmin`
+`npx create-react-app my-app --template durad`
 
 or
 
-`yarn create react-app my-app --template tsmin`
+`yarn create react-app my-app --template durad`
