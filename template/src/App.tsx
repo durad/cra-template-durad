@@ -7,6 +7,6 @@ const App: React.FC = () => {
       Minimal Typescript/SCSS based template
     </div>
   );
-}
+};
 
 export default App;
