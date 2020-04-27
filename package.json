@@ -2,7 +2,7 @@
   "name": "cra-template-durad",
   "version": "0.0.11",
   "main": "template.json",
-  "repository": "git@github.com:durad/cra-template-tsmin.git",
+  "repository": "git@github.com:durad/cra-template-durad.git",
   "author": "Dusan Radovanovic <dushanr@gmail.com>",
   "license": "MIT"
 }
